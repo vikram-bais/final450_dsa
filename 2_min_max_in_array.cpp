@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int a[8] = {1,8,7,2,3,6,5,4};
+int a[8] = {1, 8, 7, 2, 3, 6, 5, 4};
 int daq_max(int a[], int s, int e)
 {
   //cout<<"aa"<<endl;
